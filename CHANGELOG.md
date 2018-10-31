@@ -1,3 +1,4 @@
 ## 1.0.0
 
-- Initial version, created by Stagehand
+#第三次作业
+ 功能： 完成基本的随机点名
