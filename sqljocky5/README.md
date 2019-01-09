@@ -6,11 +6,11 @@ MySQL client for Dart.
 
 ```dart
   var s = ConnectionSettings(
-    user: "root",
-    password: "dart_jaguar",
-    host: "localhost",
+    user: "deit2016",//改为公共账号
+    password: "deit2016@ecnu",
+    host: "www.muedu.org",
     port: 3306,
-    db: "example",
+    db: "deit2016db_10164507127",
   );
   var conn = await MySqlConnection.connect(s);
 ```
